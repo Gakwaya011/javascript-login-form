@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    font-weight: 20px;
+}
+
+body {
+    background: url(https://wallpapercrafter.com/desktop4/1251968-alphabet-black-blur-business-close-up-communication.jpg) no-repeat;
+    background-size: cover;
+
+
+
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+
+.img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: -90px auto 50px;
+
+
+
+
+
+
+}
+
+.form {
+    background: rgba(255, 255, 255, 0.205);
+    color: white;
+    max-width: 350px;
+    margin: 60px auto;
+    padding: 19px;
+    border-radius: 10px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+
+
+
+
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 5px 0;
+    border: none;
+    background: none;
+    border-bottom: 1px solid white;
+}
+
+.btn {
+    width: 80%;
+    padding: 10px;
+    margin: 30px 0;
+    border: none;
+    background: white;
+    border-bottom: 2px solid white;
+    color: black;
+    cursor: pointer;
+    border-radius: 4px;
+
+}
+
+.or {
+    text-align: center;
+    margin: -21px;
+    margin-bottom: 4px;
+}
+
+hr {
+    border: 0.5px solid white;
+    margin-bottom: 10px;
+    width: 80%;
+}
+
+.btn1 {
+    background-color: #2b5c93;
+    color: white;
+    padding: 8px;
+    border: none;
+    margin: 7px;
+    border-radius: 9px;
+    cursor: pointer;
+}
+
+.btn2 {
+    background-color: #ed3739;
+    color: white;
+    padding: 8px;
+    border: none;
+    margin: 7px;
+    border-radius: 9px;
+    cursor: pointer;
+
+
+}
+
+.link {
+    color: #3672ed;
+    cursor: pointer;
+    text-decoration: none;
+    padding-left: 7px;
+    margin: 9px;
+    margin-bottom: 12px;
+
+}
+
+fieldset {
+    border: none;
+    border-top: 1px solid white;
+    width: 80%;
+
+}
+
+legend {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+
+}
